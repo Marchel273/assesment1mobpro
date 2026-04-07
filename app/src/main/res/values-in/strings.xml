@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grade Calculator</string>
+
+    <string name="nilai_tugas">Nilai Tugas</string>
+    <string name="nilai_uts">Nilai UTS</string>
+    <string name="nilai_uas">Nilai UAS</string>
+
+    <string name="hitung_nilai">Hitung Nilai</string>
+
+    <string name="hasil_template">Nilai: %1$.2f (Grade %2$s)</string>
+
+    <string name="input_kosong">Input tidak boleh kosong</string>
+</resources>

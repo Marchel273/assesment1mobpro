@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">GradeCalculatorApp</string>
+    <string name="app_name">Grade Calculator</string>
+
+    <string name="nilai_tugas">Assignment Score</string>
+    <string name="nilai_uts">Mid Exam</string>
+    <string name="nilai_uas">Final Exam</string>
+
+    <string name="hitung_nilai">Calculate</string>
+
+    <string name="hasil_template">Score: %1$.2f (Grade %2$s)</string>
+
+    <string name="input_kosong">Input cannot be empty</string>
 </resources>
