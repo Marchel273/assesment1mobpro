@@ -7,7 +7,22 @@
 
     <string name="hitung_nilai">Calculate</string>
 
-    <string name="hasil_template">Score: %1$.2f (Grade %2$s)</string>
-
     <string name="input_kosong">Input cannot be empty</string>
+
+    <string name="tentang_aplikasi">About App</string>
+    <string name="kembali">Back</string>
+
+    <string name="copyright">
+        Grade Calculator app to calculate student scores.
+
+        Created for Mobile Programming assignment.
+
+        © 2026
+    </string>
+
+    <string name="bagikan">Share</string>
+
+    <string name="bagikan_template">
+        Grade Calculator\n\nFinal Score: %1$.2f\nGrade: %2$s
+    </string>
 </resources>
